@@ -1,11 +1,15 @@
-import './App.css';
-import Navbar from './components/Navbar';
+import "./App.css";
+import LeftCard from "./components/LeftCard";
+import Navbar from "./components/Navbar";
 
 function App() {
   return (
     <>
-     <Navbar/>
-    
+        <Navbar />
+      <div className="items-stretch flex">
+        <LeftCard />
+        
+      </div>
     </>
   );
 }
