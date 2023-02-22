@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Home() {
     return (
-        <div>
+        <div className='bg-pink-700'>
             <div className="flex-col mt-16 ml-3 mr-3 pt-4 pr-4 pl-4 border-2  shadow-2xl">
                 
                 
