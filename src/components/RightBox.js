@@ -3,7 +3,7 @@ import React from "react";
 const RightBox = () => {
   return (
     <>
-      <div className="flex-col mr-4 bg red bg-red-700">
+      <div className="flex-col mr-16 bg red ">
         <div className="flex w-56 mt-3 ml-2 box-border border-2 rounded-lg shadow-2xl">
           <input
             className="flex-1 h-6 w-40"

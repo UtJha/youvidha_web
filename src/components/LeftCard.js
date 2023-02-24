@@ -71,7 +71,7 @@ const LeftCard = () => {
         <div className=" rounded-lg w-76 pl-6 pt-6 pb-6  pr-10 shadow-2xl">
           <div className="flex w-56  rounded-lg">
             <input
-              className="flex-1 h-9 w-20 rounded-full"
+              className="flex-1 h-9 w-20 rounded-full text-center"
               type="search"
               name="search-bar"
               placeholder="search"
@@ -83,7 +83,7 @@ const LeftCard = () => {
               fill="currentColor"
               class="bi bi-search"
               viewBox="0 0 16 16"
-              className="bg-red-700 pt-2"
+              className=" pt-2 my-1"
             >
               <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
             </svg>
