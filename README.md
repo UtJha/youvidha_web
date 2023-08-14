@@ -1,3 +1,33 @@
+**#Brief description:**
+Problems such as damaged street light, clogged drainage, damaged roads etc. all those problems that that one observes in their local areas which needed to be reported can be brought up with the help of our application. Local authorities will we connected with our application and the problems and issues that will be reported via our application, will be visible to the concerned authorities and the residents of the concerned area, where every one will be able to track the development of the issue reported. Based on the performance of the authorities, they will be ranked area vise due to which, a sense of achievement will be imparted in the department and the people of the area which will motivate them to report and solve more and more problems which will help them to improve the standard of living in their area. This product will help our country to improve and become better every day. Our product will enable us to eliminate the complex procedure of reporting any issue to any government body and make it simple which is just clicking a picture and uploading on our platform. It will also help the government organizations in dealing with the issues in a filtered and sorted manner. Our product will also improve the transparency and clarity between the people and the organizations.
+
+
+
+**Objective of project:**
+The objective of our project is to provide a one stop solution to people  to collectively report and track the progress of the issues they reported.
+
+
+
+**What is new in the project**
+ Our project provides a new and a simple approach and method to report and track the progress of problems and issues reported to the government authorities and bodies. Here, residents of the concerned area will collectively be able to view and track the progress as well.
+
+ 
+
+**How is this proposal different from existing approaches based on:**
+
+Originality	: This a fresh concept and idea, first in the market
+Performance : This product improves the working of government agencies in solving the issues of the residents and improves the clarity between the local people and the agencies.
+Costs/ benefits : Little to no manpower is required to manage the system, detection of unwanted stuff, identification of concerned authorities to be tagged with the image and other stuff will be automated
+Approach to solving the problem	: A mobile and a web application is being developed.
+Results	:  Areas where people and authorities work in synchronization using our application will show better development and transparency between the people and authorities will increase thus increasing the 
+            trust between them.
+System integration issues	:  None
+Support infrastructure :  Required
+Lkely problems that may	: Contacting and convincing the authorities and concerned people be encountered might be a bit challenging
+Budget estimates	: No budget needed right now maybe about 10K (INR) in the future
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
