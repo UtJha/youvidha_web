@@ -1,0 +1,33 @@
+.userInfo {
+  display: flex;
+  align-items: center;
+  background-color: #f5f5f5;
+  border: 2px solid #ccc;
+  width: 320px;
+
+  height: 120px;
+
+  > .username-picture {
+    // margin-left: 8%;
+    width: 5rem;
+    height: 5rem;
+    margin-left: 2rem;
+    border-radius: 50%;
+  }
+
+  > .username-info {
+    display: flex;
+    flex-direction: column;
+    > .username {
+      margin-left: 15px;
+      font-size: 18px;
+      font-weight: bold;
+    }
+
+    > .follower-count {
+      margin-left: 15px;
+      color: #777;
+      font-size: 14px;
+    }
+  }
+}
